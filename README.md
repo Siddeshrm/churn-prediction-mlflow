@@ -60,3 +60,18 @@ mlflow ui
 ```
 
 Then open http://localhost:5000.
+## MLflow experiment comparison
+
+Run names and parameters:
+
+![MLflow run parameters](mlflow_compare_1.png)
+
+Metrics for the same four runs (same column order):
+
+![MLflow run metrics](mlflow_compare_2.png)
+
+### MLflow charts
+
+![Parallel coordinates: model type vs accuracy](mlflow_chart_parallel.png)
+
+![Precision by model type](mlflow_chart_precision.png)
