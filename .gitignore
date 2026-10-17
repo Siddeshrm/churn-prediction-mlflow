@@ -1,0 +1,15 @@
+# Jupyter autosave
+.ipynb_checkpoints/
+
+# Generated data files (recreated by running the notebooks)
+*.pkl
+
+# MLflow local storage
+mlflow.db
+mlruns/
+
+# Python cache
+__pycache__/
+
+# Loose screenshots
+Screenshot*.png
