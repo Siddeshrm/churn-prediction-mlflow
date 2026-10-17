@@ -4,7 +4,7 @@ Predicting which telecom customers are likely to leave, using scikit-learn, with
 
 ## Dataset
 
-Telecom customer churn data from Kaggle: [DATASET TITLE](KAGGLE LINK).
+Telecom customer churn data from Kaggle: https://www.kaggle.com/datasets/brahimerkan/telcocustomerchurncsv.
 After cleaning, the modeling set has 6,589 customers and 32 columns, with a churn rate of 28.4%.
 The CSV is not included in this repository. Download it from the link above and save it as `telecom_customer_churn.csv` in the project folder.
 
